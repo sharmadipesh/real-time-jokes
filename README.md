@@ -1,5 +1,7 @@
 # jokes
-
+This jokes is developed using Nuxt.js for learning purpose.
+![nuxt-logo](nuxt-logo.png)
+![jokes](jokes.png)
 ## Build Setup
 
 ```bash
